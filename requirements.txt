@@ -21,7 +21,7 @@ hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
 kombu==4.2.1
-lxml==4.2.1
+lxml==4.9.1
 nltk==3.3
 numpy==1.14.3
 pandas==0.23.0
